@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="itemNameTextView" type="id" />
+    <item name="itemDescriptionTextView" type="id" />
+    <item name="action_firstPageFragment_to_homePageFragment" type="id" />
+    <item name="fragment_container" type="id" />
+    <item name="action_homePageFragment_to_firstPageFragment" type="id" />
+</resources>
